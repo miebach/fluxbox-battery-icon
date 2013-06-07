@@ -5,6 +5,8 @@ Fluxbox battery icon perl script by OTPABA
 
 Licence: No licence found. Free to use. "Feel free to modify".
 
+Author: OTPABA - http://forums.fedoraforum.org/member.php?u=193747
+
 See http://forums.fedoraforum.org/showpost.php?s=ec087e478399a39882347f0fd6c77c39&p=1567472&postcount=8
 
 Oignally copied from: http://forums.fedoraforum.org/attachment.php?attachmentid=22927&d=1333531555
