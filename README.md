@@ -46,14 +46,15 @@ Last edited by OTPABA; 4th April 2012 at 12:01 PM.
 
 ----
 
-The script works nicely on ubuntu 12.04 32bit / lenovo S10-2 netbook / Fluxbox 1.3.2
+Tested on ubuntu 12.04 32bit / lenovo S10-2 netbook / lenovo X200s / Fluxbox 1.3.2
 
 If acpi is not installed:
 
   sudo apt-get install acpi
 
+You may also need gtk2 perl bindings:
 
-kwmiebach on 7th June 2013
+  sudo apt-get install libgtk2-perl
 
 ----
 
